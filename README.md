@@ -1,6 +1,9 @@
 # Crossfire/ELRS Telemetry Reader
-Basic project to read Crossfire/ELRS telemetry directly from Remote Controller over USB data cable
+The project reads Crossfire/ELRS telemetry directly from a Remote Controller via a USB data cable. 
 
+This setup is ideal for an antenna tracker, as it only requires a single board with USB host capabilities to control servos. This board could be a PC, Raspberry Pi, or ESP32-S3.
+
+## Initial Setup
 Connect your Radio Controller to PC with a USB data cable
 
 > In EdgeTX
