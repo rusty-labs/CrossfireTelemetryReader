@@ -1,2 +1,2 @@
 # CrossfireTelemetryReader
-Basic project to read ELRS telemetry from serial data
+Basic project to read Crossfire/ELRS telemetry from serial data
