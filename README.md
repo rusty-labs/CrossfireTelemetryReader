@@ -1,5 +1,5 @@
 # Crossfire/ELRS Telemetry Reader
-Basic project to read Crossfire/ELRS telemetry from serial data
+Basic project to read Crossfire/ELRS telemetry directly from Remote Controller over USB data cable
 
 Connect your Radio Controller to PC with a USB data cable
 
